@@ -122,6 +122,13 @@ Gravitino provides a Trino connector to access the metadata in Gravitino. To use
 2. [How to test Gravitino](docs/how-to-test.md)
 3. [How to publish Docker images](docs/publish-docker-images.md)
 
+## Apache Gravitino Playgound
+
+To experience Gravitino with other components easily, Gravitino provides a playground to run. It integrates Apache Hadoop, Apache Hive, Trino, MySQL, PostgreSQL, and Gravitino together as a complete environment. To experience all the features, see [Getting started](docs/getting-started.md) and [How to use the Gravitino playground](docs/how-to-use-the-playground.md).
+- [Install Gravitino playground on AWS or GCP](docs/getting-started.md#installing-apache-hive-on-aws-or-google-cloud-platform): a quick guide to starting and using the Gravitino playground on AWS or GCP.
+- [Install Gravitino playground locally](docs/getting-started.md#installing-apache-gravitino-playground-locally): a quick guide to starting and using the Gravitino playground locally.
+- [How to use the Gravitino playground](docs/how-to-use-the-playground.md): provides an example of how to use Gravitino and other components together.
+
 ## License
 
 Gravitino is licensed under the Apache License Version 2.0. For details, see the [LICENSE](LICENSE).
